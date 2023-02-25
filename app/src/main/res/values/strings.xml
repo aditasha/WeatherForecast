@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="updated_at">Updated at %1$s</string>
+    <string name="celcius_degree">Temperature : %1$s°C</string>
+    <string name="feels">Feels like %1$s°C</string>
+    <string name="icon_html">https://openweathermap.org/img/wn/%1$s@2x.png</string>
+    <string name="no_data">No data</string>
+    
+    <string name="current_location">Current location</string>
+    <string name="other_cities">Other cities</string>
+</resources>
